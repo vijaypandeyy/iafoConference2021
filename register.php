@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Blog Single - Moderna Bootstrap Template</title>
+  <title>Registration Form - Iafo 2021 Mumbai</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -51,7 +51,7 @@
       <div class="container">
 
         <div class="d-flex justify-content-between align-items-center">
-          <h2>Register</h2>
+          <h2>Registration </h2>
 
           <ol>
             <li><a href="index.php">Home</a></li>
